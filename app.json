@@ -5,8 +5,11 @@
     "extra": {
       "eas": {
         "projectId": "34aab481-99b0-428f-93ee-e4a36fe2b045"
-      }
+      },
     },
+    "android": {
+      "package": "com.mthebest81.WazoReactNativeDemo"
+    },  
     "owner": "mthebest81",
     "slug": "wazoreactnative"
   }
