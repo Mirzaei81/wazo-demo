@@ -1,4 +1,13 @@
 {
   "name": "WazoReactNativeDemo",
-  "displayName": "WazoReactNativeDemo"
+  "displayName": "WazoReactNativeDemo",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "34aab481-99b0-428f-93ee-e4a36fe2b045"
+      }
+    },
+    "owner": "mthebest81",
+    "slug": "wazoreactnative"
+  }
 }
